@@ -1,5 +1,9 @@
 # pixi.js test
 
+### Test
+
+[Play it here](https://caioicy.github.io/pixi-js-test/dist/)
+
 ### Run
 
 ```sh
